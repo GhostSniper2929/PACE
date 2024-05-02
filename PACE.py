@@ -29,6 +29,7 @@ st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON, layout="centered"
 # --- Hero Section ---
 st.title(NAME)
 st.write("✉️", EMAIL)
+st.write("By: Sreeshan Karnati")
 
 # SOCIAL
 st.write("#")
